@@ -25,6 +25,7 @@ This project presents an interactive dashboard built using Microsoft Excel to an
 * Peak pollution occurs at hour 21
 * PM2.5 is the dominant pollutant with highest variability
 * Air pollution shows a clear daily pattern (lower mid-day, higher evening)
+* These findings suggest that evening hours may pose higher health risks due to increased PM2.5 concentration.
 
 ## 🖼️ Dashboard Preview
 
