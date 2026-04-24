@@ -30,6 +30,11 @@ This project presents an interactive dashboard built using Microsoft Excel to an
 
 ![Dashboard](images/dashboard_preview_v2.png)
 
+## 🚀 What I Learned
+- Data cleaning and preparation in Excel  
+- Building interactive dashboards using Pivot Tables and Slicers  
+- Identifying key insights from real-world datasets  
+
 ---
 
 ✨ This is my first data analysis project using Excel.
