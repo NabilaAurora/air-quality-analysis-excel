@@ -33,7 +33,10 @@ This project presents an interactive dashboard built using Microsoft Excel to an
 ## 🚀 What I Learned
 - Data cleaning and preparation in Excel  
 - Building interactive dashboards using Pivot Tables and Slicers  
-- Identifying key insights from real-world datasets  
+- Identifying key insights from real-world datasets
+
+## 📂 Dataset
+This dataset is sourced from OpenAQ via Udacity and contains hourly air quality measurements.
 
 ---
 
